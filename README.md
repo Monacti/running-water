@@ -1,2 +1,2 @@
 # running-water
-This a project made for testing purposes.
+This a project made for testing and school project purposes.
